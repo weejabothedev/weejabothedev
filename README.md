@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @WeeJabo !
-- 👀 I’m interested in Making Mods For Gorilla Tag and Making Games!
+- 👀 i'm currently intrested in **m i n e c r a f t**
 - 🌱 I’m currently learning C# (getting pretty good!)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got into making games at a pretty young age (about 10-11)
