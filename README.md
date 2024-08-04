@@ -1,8 +1,7 @@
-# 👋 Hi, I’m @WeeJabo !
-- 👀 i'm currently intrested in **m i n e c r a f t**
-- 🌱 I’m currently learning C# (getting pretty good!)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I got into making games at a pretty young age (about 10-11)
+# 👋 hi, i’m @weejabothedev !
+- 👀 i'm currently intrested in C# + Unity development 
+- 🌟 favourite game right now: **m i n e c r a f t**
+- 😄 pronouns: He/Him
 
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weejabothedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
