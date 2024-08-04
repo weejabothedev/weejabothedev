@@ -1,10 +1,8 @@
 # 👋 Hi, I’m @WeeJabo !
 - 👀 I’m interested in Making Mods For Gorilla Tag and Making Games!
 - 🌱 I’m currently learning C# (getting pretty good!)
-- 📫 How to reach me - weejabo@gmail.com + [Discord](https://discord.com/users/1053366861829525535)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got into making games at a pretty young age (about 10-11)
--  📷 YouTube: @weejabogtag or [Here's A Link.](https://www.youtube.com/@weejabogtag)
 
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weejabothedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -16,11 +14,6 @@
 <div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://i.redd.it/tu3gt6ysfxq71.png)" height="30" alt="unity logo"  />
-</div>
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=weejabothedev&countColor=%23263759"/>
 </div>
 
 <!---
