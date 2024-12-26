@@ -1,6 +1,6 @@
 # 👋 hi, i’m @weejabothedev !
 - 👀 i'm currently intrested in C# + Unity development 
-- 🌟 favourite game right now: **m i n e c r a f t**
+- 🌟 favourite game right now: GTA V
 - 😄 pronouns: He/Him
 
  <div align="center">
